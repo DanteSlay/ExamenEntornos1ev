@@ -12,7 +12,7 @@
 
 ### UT2.- Instalación y uso de entornos de desarrollo
 
-- IntelliJ IDEA <img src="material/IDEA.png" alt="Icono IntelliJ IDEA">
+- IntelliJ IDEA ![Icono IntelliJ](material/IDEA.PNG)
 
 - Eclipse ![Icono Eclipse](material/eclipse.PNG)
 
